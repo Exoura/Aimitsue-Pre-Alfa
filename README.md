@@ -59,21 +59,6 @@ Before running Aimitsue, ensure you have the following installed:
 
 ---
 
-## 🏗️ Build from Source
-
-**Requirements:**
-*   Visual Studio 2022 (C++ Desktop Development)
-*   CMake 3.20+
-
-**Steps:**
-1.  Clone the repository:
-    ```bash
-    git clone --recursive https://github.com/Exoura/Aimitsue-Pre-Alfa.git
-    ```
-2.  Open the folder in Visual Studio using CMake mode.
-3.  Select `x64-Release` configuration.
-4.  Build -> Install -> Aimitsue.
-
 ---
 
 ## ⚖️ Disclaimer
