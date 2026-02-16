@@ -71,7 +71,7 @@ they have build in Installer you don't need to Install it manualy
 ## ⚖️ Disclaimer
 
 This software is intended for accessibility and personal customization purposes. Aimitsue is a tool for translating input, not a cheat.
-*   **Interception Driver**: ⚠️ **WARNING: RISKY.** This driver is **DETECTED** by many competitive FPS games (e.g., Vanguard, FaceIT). Using it may result in bans or kicks.
+*   **Interception Driver**: ⚠️ **WARNING: RISKY.** This driver is **DETECTED** by many competitive FPS games (e.g., EAC, Battle Eye,FACEIT). Using it may result in bans or kicks.
 *   **ViGEmBus**: The industry standard for virtual gamepad emulation.
 
 > **Note:** Use at your own risk. Im not responsible for any bans or account actions.
