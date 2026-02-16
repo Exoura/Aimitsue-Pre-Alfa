@@ -55,7 +55,7 @@ they have build in Installer you don't need to Install it manualy
 5.  **Activate**: Press `F6` (default) or click the Toggle button to start emulation.
     *   *Press `F6` to release the mouse cursor.*
     
-    **Join our discord for more help and bugs report https://discord.gg/ecHKhQkge5**:
+    **Join our discord for more help and bugs report and new Updates https://discord.gg/ecHKhQkge5**:
 ---
 
 ## ⚙️ Advanced Settings
