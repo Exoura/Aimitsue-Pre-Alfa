@@ -34,7 +34,7 @@ Before running Aimitsue, ensure you have the following installed:
     *   *Note: Run `install-interception.exe /install` as Administrator.*
            or
           *watch this* https://www.youtube.com/watch?v=IRDSTomCGBs
-2.  **[ViGEmBus Driver](https://github.com/ViGEm/ViGEmBus/releases)** (Required for Output also) 
+2.  **[ViGEmBus Driver](https://github.com/ViGEm/ViGEmBus/releases)** (Required for Output) 
 
 they have build in Installer you don't need to Install it manualy
 
