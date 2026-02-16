@@ -32,7 +32,8 @@ Before running Aimitsue, ensure you have the following installed:
 
 1.  **[Interception Driver](https://github.com/oblitum/Interception/releases)** (Required for Input)
     *   *Note: Run `install-interception.exe /install` as Administrator.*
-           https://www.youtube.com/watch?v=IRDSTomCGBs
+           or
+          *watch this* https://www.youtube.com/watch?v=IRDSTomCGBs
 2.  **[ViGEmBus Driver](https://github.com/ViGEm/ViGEmBus/releases)** (Required for Output)
 3.  **[Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)** (x64)
 
