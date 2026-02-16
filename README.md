@@ -54,7 +54,7 @@ they have build in Installer you don't need to Install it manualy
     *   Set **Deadzone** to match your game's settings.
 5.  **Activate**: Press `F6` (default) or click the Toggle button to start emulation.
     *   *Press `F6` to release the mouse cursor.*
-
+    **Joine our discord for more help amd bugs report https://discord.gg/ecHKhQkge5**:
 ---
 
 ## ⚙️ Advanced Settings
